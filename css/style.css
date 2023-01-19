@@ -1,0 +1,24 @@
+.header{
+  background-color: #264653;
+}
+.btn-orange-primary, .btn-orange-secondary:hover{
+  background-color: #E76F51 !important;
+  color: white !important;
+  border: 2px solid white !important;
+}
+.btn-orange-primary:hover, .btn-orange-secondary{
+  background-color: white !important;
+  color: #E76F51 !important;
+  border: 2px solid #E76F51 !important;
+}
+.text-orange{
+  color: #E76F51;
+}
+.rate{
+  height: 20px;
+  width: 20px;
+}
+.gray-img{
+  filter: grayscale(100);
+}
+
